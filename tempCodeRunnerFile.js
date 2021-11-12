@@ -1,9 +1,5 @@
-if (raining) {
-  console.log("Don't forget your umbrella!");
-}
-
-if (cold) {
-  console.log("Make sure you pick out a scarf!");
-}
-
-console.log("Now you're ready to go outside!");
+  // if (age < 13 ) {
+  //   return "Elementary School"
+  // }else if (age >= 13 && age <= 18){
+  //   return "Secondary School"
+  // }
